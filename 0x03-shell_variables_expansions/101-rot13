@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n  | base64
+rpub -a | onfr64
