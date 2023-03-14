@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n ASCII | base64
+echo -n  | base64
