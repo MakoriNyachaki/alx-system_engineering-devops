@@ -1,2 +1,2 @@
 #!/bin/bash
-rpub -a | onfr64
+echo -n | rot13
